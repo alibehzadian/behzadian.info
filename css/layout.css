@@ -311,7 +311,7 @@ ul#nav li.current a { color: #F06000; }
 #websites .header-col { padding-top: 9px; }
 #websites .main-col { padding-right: 10%; }
 
-.education, .work {
+.website {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
@@ -361,7 +361,7 @@ ul#nav li.current a { color: #F06000; }
 #books .header-col { padding-top: 9px; }
 #books .main-col { padding-right: 10%; }
 
-.books, .work {
+.books {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
